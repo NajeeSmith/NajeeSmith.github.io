@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Portfolio!"
+title                    : "Data Science Portfolio"
 title_separator          : "-"
 name                     : "Najee Smith"
 description              : "Collection of projects I have created"
@@ -293,10 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-    # _pages
-   - scope:
-       path: ""
-       type: _pages
-      values:
-       layout: single
-       author_profile: true
