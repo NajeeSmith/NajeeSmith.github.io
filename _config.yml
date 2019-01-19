@@ -285,7 +285,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: _posts
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -293,7 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
-   # _pages
+    # _pages
    - scope:
        path: ""
        type: _pages
