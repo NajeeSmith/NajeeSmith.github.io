@@ -1,34 +1,6 @@
 ---
 title: "Projects"
-layout: posts
+layout: collection
 permalink: /projects/
 author_profile: true
-toc:
-  - title: Classifiers
-    subfolderitems:
-      - page: KernelSVM
-        url: https://najeesmith.github.io/KernelSVM/
-      - page: Gaussian
-        url: https://najeesmith.github.io/Gaussian/
-      - page: Random Forest
-        url: https://najeesmith.github.io/RandomForest/
-      - page: K-Means Clustering
-        url: https://najeesmith.github.io/Kmeans/
-      - page: Natural Language Processing
-        url: https://najeesmith.github.io/NLP/       
-  - title: Neural Networks
-    subfolderitems:
-      - page: Artificial
-        url: https://najeesmith.github.io/ANN/
-      - page: Convolutional
-        url: https://najeesmith.github.io/CNN/
-      - page: Recurrent
-        url: https://najeesmith.github.io/KernelSVM/
-      - page: Self-Organizing Maps
-        url: https://najeesmith.github.io/SOM/
-      - page: Restricted Boltmann Machine
-        url: https://najeesmith.github.io/RBM/
-      - page: Auto Encoder
-        url: https://najeesmith.github.io/Autoencoder/
-
 ---
