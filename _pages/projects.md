@@ -31,4 +31,4 @@ toc:
         url: /piece3.html
 
 ---
-#H1[Kernel SVM](/_posts/KernelSVM/)
+#H1[Kernel SVM](/_posts/)
