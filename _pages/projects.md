@@ -2,8 +2,8 @@
 title: "Projects"
 layout: collection
 permalink: /projects/
-collection: Classifiers
-entries_layout: grid
+collection: classifiers # collection name
+entries_layout: grid # list (default), grid
 sort_by: title
 toc:
   - title: Classifiers
