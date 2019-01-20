@@ -1,10 +1,7 @@
 ---
 title: "Projects"
-layout: collection
+layout: archive
 permalink: /projects/
-collection: classifiers # collection name
-entries_layout: grid # list (default), grid
-sort_by: title
 toc:
   - title: Classifiers
     subfolderitems:
