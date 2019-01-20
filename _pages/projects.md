@@ -2,6 +2,7 @@
 title: "Projects"
 layout: posts
 permalink: /projects/
+author_profile: true
 toc:
   - title: Classifiers
     subfolderitems:
@@ -32,4 +33,4 @@ toc:
 
 ---
 #H1[About](/about/)
-[KernelSVM](/_posts/KernelSVM)
+[KernelSVM](/_posts/2019-01-20-KernelSVM)
