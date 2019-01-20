@@ -33,4 +33,4 @@ toc:
 
 ---
 #H1[About](/about/)
-[KernelSVM](/_posts/2019-01-20-KernelSVM)
+[KernelSVM](/_posts/2019-01-20-KernelSVM.md)
