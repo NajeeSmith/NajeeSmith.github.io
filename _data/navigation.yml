@@ -2,58 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-sidebar:
-  title: "Project List"
-  nav: sidebar-sample
-sidebar-sample:
-  - title: "Classifiers"
-    children:
-      - title: "Kernel SVM"
-        url: /
-      - title: "Random Forest"
-        url: /
-      - title: "Gaussian"
-        url: /
-      - title: "K-Means Cluster"
-        url: /
-      - title: "Natural Language Processing"
-        url: /
-      - title: "Reinforement Learning"
-        url: /
-  - title: "Neural Networks"
-    children:
-      - title: "Artificial"
-        url: /
-      - title: "Convolutional"
-        url: /
-      - title: "Self Organizing Maps"
-        url: /
-      - title: "Restricted Boltzmann Machine"
-        url: /
-      - title: "Auto Encoder"
-        url: /
-  - title: "Parent Page C"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
