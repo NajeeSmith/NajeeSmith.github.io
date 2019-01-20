@@ -7,28 +7,28 @@ toc:
   - title: Classifiers
     subfolderitems:
       - page: KernelSVM
-        url: /thing1.html
+        url: https://najeesmith.github.io/KernelSVM/
       - page: Gaussian
-        url: /thing2.html
+        url: https://najeesmith.github.io/Gaussian/
       - page: Random Forest
-        url: /thing3.html
+        url: https://najeesmith.github.io/RandomForest/
       - page: K-Means Clustering
-        url: /thing3.html
+        url: https://najeesmith.github.io/Kmeans/
       - page: Natural Language Processing
-        url: /thing3.html       
+        url: https://najeesmith.github.io/NLP/       
   - title: Neural Networks
     subfolderitems:
       - page: Artificial
-        url: /piece1.html
+        url: https://najeesmith.github.io/ANN/
       - page: Convolutional
-        url: /piece2.html
+        url: https://najeesmith.github.io/CNN/
       - page: Recurrent
-        url: /piece3.html
+        url: https://najeesmith.github.io/KernelSVM/
       - page: Self-Organizing Maps
-        url: /piece3.html
+        url: https://najeesmith.github.io/SOM/
       - page: Restricted Boltmann Machine
-        url: /piece3.html
+        url: https://najeesmith.github.io/RBM/
       - page: Auto Encoder
-        url: /piece3.html
+        url: https://najeesmith.github.io/Autoencoder/
 
 ---
