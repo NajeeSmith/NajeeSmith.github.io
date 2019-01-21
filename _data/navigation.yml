@@ -11,26 +11,32 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 docs:
-  - title: Getting Started
+  - title: Neural Networks
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
+      - title: "Artificial Neural Networks"
+        url: ANN
+      - title: "Convolutional Neural Networks"
+        url: https://najeesmith.github.io/CNN/
+      - title: "Recurrent Neural Networks"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Restricted Boltzmann Machine"
+        url: /docs/upgrading/
+      - title: "Autoencoder"
+        url: /docs/upgrading/
+      - title: "Self Organizing Map"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Classifiers
     children:
-      - title: "Configuration"
+      - title: "Kernel SVM"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Random Forest"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "Gaussian"
         url: /docs/ui-text/
-      - title: "Authors"
+      - title: "K Means Classifier"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "Natural Language Processing"
         url: /docs/layouts/
+      - title: "Reinforcement Learning"
+        url: /docs/layouts
