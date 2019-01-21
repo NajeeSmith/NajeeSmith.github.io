@@ -292,9 +292,9 @@ defaults:
       comments: # true
       share: true
       related: true
-      values:
-        sidebar:
-          nav: "docs"
+      sidebar:
+        nav: "docs"
+
   # _pages
   - scope:
       path: ""
@@ -302,10 +302,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: posts
-    values:
-      sidebar:
-        nav: "docs"
