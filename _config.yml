@@ -279,13 +279,6 @@ compress_html:
   ignore:
     envs: development
 
-collections:
-  Classifier:
-    output: true
-    permalink: /:collection/:path/
-  Deep Learning:
-    output: true
-    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -306,19 +299,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: Deep Learning
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: Classifiers
-    values:
-      layout: single
-      author_profile: false
-      share: true
