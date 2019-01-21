@@ -18,25 +18,53 @@ docs:
       - title: "Convolutional Neural Networks"
         url: https://najeesmith.github.io/CNN/
       - title: "Recurrent Neural Networks"
-        url: RNN
+        url: https://najeesmith.github.io/RNN/
       - title: "Restricted Boltzmann Machine"
-        url: RBM
+        url: https://najeesmith.github.io/RBM/
       - title: "Autoencoder"
-        url: Autoencoder
+        url: https://najeesmith.github.io/Autoencoder/
       - title: "Self Organizing Map"
-        url: SOM
+        url: https://najeesmith.github.io/SOM/
 
   - title: Classifiers
     children:
       - title: "Kernel SVM"
-        url: KernelSVM
+        url: https://najeesmith.github.io/KernelSVM/
       - title: "Random Forest"
-        url: RF
+        url: https://najeesmith.github.io/RF/
       - title: "Gaussian"
-        url: Gaussian
+        url: https://najeesmith.github.io/Gaussian/
       - title: "K Means Classifier"
-        url: KMeans
+        url: https://najeesmith.github.io/KMeans/
       - title: "Natural Language Processing"
-        url: NLP
+        url: https://najeesmith.github.io/NLP/
       - title: "Reinforcement Learning"
-        url: Reinforcement
+        url: https://najeesmith.github.io/Reinforcement/
+
+"toc:
+  - title: Classifiers
+    subfolderitems:
+      - page: KernelSVM
+        url: https://najeesmith.github.io/KernelSVM/
+      - page: Gaussian
+        url: https://najeesmith.github.io/Gaussian/
+      - page: Random Forest
+        url: https://najeesmith.github.io/RandomForest/
+      - page: K-Means Clustering
+        url: https://najeesmith.github.io/Kmeans/
+      - page: Natural Language Processing
+        url: https://najeesmith.github.io/NLP/
+  - title: Neural Networks
+    subfolderitems:
+      - page: Artificial
+        url: https://najeesmith.github.io/ANN/
+      - page: Convolutional
+        url: https://najeesmith.github.io/CNN/
+      - page: Recurrent
+        url: https://najeesmith.github.io/KernelSVM/
+      - page: Self-Organizing Maps
+        url: https://najeesmith.github.io/SOM/
+      - page: Restricted Boltmann Machine
+        url: https://najeesmith.github.io/RBM/
+      - page: Auto Encoder
+        url: https://najeesmith.github.io/Autoencoder/"
