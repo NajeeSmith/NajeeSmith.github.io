@@ -7,9 +7,9 @@ header:
   overlay_image: /images/Neural Networks/RNN/model.jpeg
   overlay_filter: 0.5
 ---
-# Introdcution
+# Introduction\
 My personal favorite neural network. It solved the vanishing gradient problem
-by avoiding it all together and is incredibly useful for time-dependent data. 
+by avoiding it all together and is incredibly useful for time-dependent data.
 
 # Code
 # Results

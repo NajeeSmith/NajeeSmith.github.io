@@ -7,6 +7,6 @@ header:
   overlay_image: /images/Neural Networks/model.png
   overlay_filter: 0.5
 ---
-# Introdcution
+# Introduction
 # Code
 # Results
