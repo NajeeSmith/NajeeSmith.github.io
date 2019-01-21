@@ -277,7 +277,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: false
       related: false
@@ -291,3 +291,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+collections:
+  Neural Networks:
+    output: true
+  Classifiers:
+    output: true
