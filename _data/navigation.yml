@@ -18,25 +18,25 @@ docs:
       - title: "Convolutional Neural Networks"
         url: https://najeesmith.github.io/CNN/
       - title: "Recurrent Neural Networks"
-        url: /docs/installation/
+        url: RNN
       - title: "Restricted Boltzmann Machine"
-        url: /docs/upgrading/
+        url: RBM
       - title: "Autoencoder"
-        url: /docs/upgrading/
+        url: Autoencoder
       - title: "Self Organizing Map"
-        url: /docs/upgrading/
+        url: SOM
 
   - title: Classifiers
     children:
       - title: "Kernel SVM"
-        url: /docs/configuration/
+        url: KernelSVM
       - title: "Random Forest"
-        url: /docs/navigation/
+        url: RF
       - title: "Gaussian"
-        url: /docs/ui-text/
+        url: Gaussian
       - title: "K Means Classifier"
-        url: /docs/authors/
+        url: KMeans
       - title: "Natural Language Processing"
-        url: /docs/layouts/
+        url: NLP
       - title: "Reinforcement Learning"
-        url: /docs/layouts
+        url: Reinforcement
