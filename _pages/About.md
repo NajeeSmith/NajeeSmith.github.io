@@ -10,4 +10,4 @@ SQL
 Tableau
 Hadoop
 Anaconda
-Git
+Git. I am not done Sofia so please stop giving me shit about not having commas.
