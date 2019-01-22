@@ -1,12 +1,13 @@
 ---
 title: " Auto-Encoders"
 date: 2019-01-20
-tag: [machine learning, Kernel SVM]
-excerpt: "Data Science, Machine Learning"
 header:
   overlay_image: /images/Neural Networks/model.png
   overlay_filter: 0.5
+  actions:
+    - label: "Full Code"
+      url: "https://github.com/najeesmith"
 ---
-# Introduction 
+# Introduction
 # Code
 # Results
