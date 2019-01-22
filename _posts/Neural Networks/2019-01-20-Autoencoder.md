@@ -1,6 +1,7 @@
 ---
 title: " Auto-Encoders"
 date: 2019-01-20
+excerpt: ""
 header:
   overlay_image: /images/Neural Networks/model.png
   overlay_filter: 0.5
