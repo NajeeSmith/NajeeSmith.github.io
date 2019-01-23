@@ -92,7 +92,7 @@ plt.show()
 <figure class="half">
 <a href="/images\Neural Networks\RNN\adam_2.PNG"><img src="/images\Neural Networks\RNN\adam_2.PNG"></a>
 <a href="/images\Neural Networks\RNN\nadam.PNG"><img src="/images\Neural Networks\RNN\nadam.PNG"></a>
-    <figcaption>Left to right: Adam and Nadam</figcaption>
+    <figcaption>Adam and Nadam respectively</figcaption>
 </figure>
 
 It's a close race, so looking at the mean squared error would help give a better idea of the results.
@@ -100,7 +100,7 @@ It's a close race, so looking at the mean squared error would help give a better
 <figure class="half">
 <a href="/images\Neural Networks\RNN\adam_rsme.PNG"><img src="/images\Neural Networks\RNN\adam_rsme.PNG"></a>
 <a href="/images\Neural Networks\RNN\nadam_rmse.PNG"><img src="/images\Neural Networks\RNN\nadam_rmse.PNG"></a>
-    <figcaption>Left to right: Adam and Nadam</figcaption>
+    <figcaption>Adam and Nadam respectively</figcaption>
 </figure>
 
-Looking at the rmse really showed how close the models were when it came to training. The difference may be scaled along with the size of the data, however I found both to be acceptable for the set. 
+Looking at the rmse really showed how close the models were when it came to training. The difference may be scaled along with the size of the data, however I found both to be acceptable for the set.
