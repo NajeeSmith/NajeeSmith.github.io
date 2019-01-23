@@ -19,13 +19,13 @@ docs:
         url: https://najeesmith.github.io/RF/
       - title: "Gaussian"
         url: https://najeesmith.github.io/Gaussian/
-      - title: "K Means Classifier"
+      - title: "K Means Clustering"
         url: https://najeesmith.github.io/KMeans/
       - title: "Natural Language Processing"
         url: https://najeesmith.github.io/NLP/
       - title: "Reinforcement Learning"
         url: https://najeesmith.github.io/Reinforcement/
-        
+
   - title: Neural Networks
     children:
       - title: "Artificial Neural Networks"
