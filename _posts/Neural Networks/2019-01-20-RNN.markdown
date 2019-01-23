@@ -48,3 +48,5 @@ regressor.compile(optimizer = 'adam', loss = 'mean_squared_error')
 
 
 # Results
+
+**Images of adam and nadam**
