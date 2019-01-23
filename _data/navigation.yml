@@ -11,21 +11,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 docs:
-  - title: Neural Networks
-    children:
-      - title: "Artificial Neural Networks"
-        url: ANN
-      - title: "Convolutional Neural Networks"
-        url: https://najeesmith.github.io/CNN/
-      - title: "Recurrent Neural Networks"
-        url: https://najeesmith.github.io/RNN/
-      - title: "Restricted Boltzmann Machine"
-        url: https://najeesmith.github.io/RBM/
-      - title: "Autoencoder"
-        url: https://najeesmith.github.io/Autoencoder/
-      - title: "Self Organizing Map"
-        url: https://najeesmith.github.io/SOM/
-
   - title: Classifiers
     children:
       - title: "Kernel SVM"
@@ -40,3 +25,18 @@ docs:
         url: https://najeesmith.github.io/NLP/
       - title: "Reinforcement Learning"
         url: https://najeesmith.github.io/Reinforcement/
+        
+  - title: Neural Networks
+    children:
+      - title: "Artificial Neural Networks"
+        url: ANN
+      - title: "Convolutional Neural Networks"
+        url: https://najeesmith.github.io/CNN/
+      - title: "Recurrent Neural Networks"
+        url: https://najeesmith.github.io/RNN/
+      - title: "Restricted Boltzmann Machine"
+        url: https://najeesmith.github.io/RBM/
+      - title: "Autoencoder"
+        url: https://najeesmith.github.io/Autoencoder/
+      - title: "Self Organizing Map"
+        url: https://najeesmith.github.io/SOM/
