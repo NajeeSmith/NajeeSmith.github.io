@@ -3,7 +3,7 @@ title: "Kernel Support Vector Machines"
 date: 2019-01-20
 excerpt: ""
 header:
-  overlay_image: /images/classifiers/SVM/model.png
+  overlay_image: /images\Classifiers\SVM\model.png
   overlay_filter: 0.5
   actions:
     - label: "Full Code"
@@ -77,10 +77,9 @@ plt.show()```
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 ```
-
 <figure class="half">
-    <img src="/images\Classifiers\SVM\svm_test_image.PNG"></a>
-    <img src="/images\Classifiers\SVM\kpca_test_image.PNG"></a>
+<a href="/images\Classifiers\SVM\svm_test_image.PNG"><img src="/images\Classifiers\SVM\svm_test_image.PNG"></a>
+<a href="/images\Classifiers\SVM\kpca_test_image.PNG"><img src="/images\Classifiers\SVM\kpca_test_image.PNG"></a>
     <figcaption>Kernel SVM left and Kernel PCA with Lin Reg on the right</figcaption>
 </figure>
 
@@ -92,4 +91,4 @@ Both models were rather convincing to be useful since both graphs organize the c
     <figcaption>Kernel SVM left and Kernel PCA with Lin Reg on the right</figcaption>
 </figure>
 
-By adding the bottom left and upper right cells on each, it can be seen that Kernel SVM had only 7 incorrect predictions, while the Kernel PCA method had 10. I am completely aware this is only one project with a single data set, however I felt it was still a worthwhile comparison. Larger data sets would probably have an different results since Kernel SVM accuracy have an inverse relationship with data size. 
+By adding the bottom left and upper right cells on each, it can be seen that Kernel SVM had only 7 incorrect predictions, while the Kernel PCA method had 10. I am completely aware this is only one project with a single data set, however I felt it was still a worthwhile comparison. Larger data sets would probably have an different results since Kernel SVM accuracy have an inverse relationship with data size.
