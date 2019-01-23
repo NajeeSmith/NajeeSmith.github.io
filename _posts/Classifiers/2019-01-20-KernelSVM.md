@@ -86,8 +86,8 @@ cm = confusion_matrix(y_test, y_pred)
 Both models were rather convincing to be useful since both graphs organize the customers in the correct predicted regions, however I'd rather not strain my eyes trying to count all the incorrect points. This is where simple math and a confusion matrix came into play.
 
 <figure class="half">
-    <a href="/images\Classifiers\SVM\cm_kpcs.PNG"><img src="/images\Classifiers\SVM\cm_kpcs.PNG"></a>
     <a href="/images\Classifiers\SVM\cm_ksvm.PNG"><img src="/images\Classifiers\SVM\cm_ksvm.PNG"></a>
+      <a href="/images\Classifiers\SVM\cm_kpcs.PNG"><img src="/images\Classifiers\SVM\cm_kpcs.PNG"></a>
     <figcaption>Kernel SVM left and Kernel PCA with Lin Reg on the right</figcaption>
 </figure>
 
