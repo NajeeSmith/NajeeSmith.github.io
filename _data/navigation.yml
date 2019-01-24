@@ -17,7 +17,7 @@ docs:
         url: https://najeesmith.github.io/KernelSVM/
       - title: "Random Forest"
         url: https://najeesmith.github.io/RF/
-      - title: "Gaussian"
+      - title: "Grid Search"
         url: https://najeesmith.github.io/Gaussian/
       - title: "K Means Clustering"
         url: https://najeesmith.github.io/KMeans/
