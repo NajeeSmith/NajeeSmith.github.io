@@ -19,7 +19,7 @@ of its advertisement.
 
 # Code
 ## Kernel SVM
-All 3 techniques were broken into 2 features, age and salary. Scaling was applied
+The data was broken into 2 features, age and salary. Scaling was applied
 due to the large variation within the salary feature.
 The preprocessing step was nothing too strenuous since my goal of this project
 was to learn about what make these methods unique. The following I left the arguments
