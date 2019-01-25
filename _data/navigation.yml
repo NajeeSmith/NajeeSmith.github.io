@@ -23,8 +23,6 @@ docs:
         url: https://najeesmith.github.io/KMeans/
       - title: "Natural Language Processing"
         url: https://najeesmith.github.io/NLP/
-      - title: "Reinforcement Learning"
-        url: https://najeesmith.github.io/Reinforcement/
 
   - title: Neural Networks
     children:
@@ -36,7 +34,5 @@ docs:
         url: https://najeesmith.github.io/RNN/
       - title: "Restricted Boltzmann Machine"
         url: https://najeesmith.github.io/RBM/
-      - title: "Autoencoder"
-        url: https://najeesmith.github.io/Autoencoder/
       - title: "Self Organizing Map"
         url: https://najeesmith.github.io/SOM/
