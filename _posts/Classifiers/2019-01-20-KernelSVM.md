@@ -79,7 +79,7 @@ cm = confusion_matrix(y_test, y_pred)
 <figure class="half">
 <a href="/images\Classifiers\SVM\svm_test_image.PNG"><img src="/images\Classifiers\SVM\svm_test_image.PNG"></a>
 <a href="/images\Classifiers\SVM\kpca_test_image.PNG"><img src="/images\Classifiers\SVM\kpca_test_image.PNG"></a>
-    <figcaption>Kernel SVM left and Kernel PCA with Lin Reg on the right</figcaption>
+    <figcaption>Kernel SVM and Kernel PCA with Lin Reg respectively</figcaption>
 </figure>
 
 Both models were rather convincing to be useful since both graphs organize the customers in the correct predicted regions, however I'd rather not strain my eyes trying to count all the incorrect points. This is where simple math and a confusion matrix came into play.
@@ -87,7 +87,7 @@ Both models were rather convincing to be useful since both graphs organize the c
 <figure class="half">
     <a href="/images\Classifiers\SVM\cm_ksvm.PNG"><img src="/images\Classifiers\SVM\cm_ksvm.PNG"></a>
       <a href="/images\Classifiers\SVM\cm_kpcs.PNG"><img src="/images\Classifiers\SVM\cm_kpcs.PNG"></a>
-    <figcaption>Kernel SVM left and Kernel PCA with Lin Reg on the right</figcaption>
+    <figcaption>Kernel SVM and Kernel PCA with Lin Reg respectively</figcaption>
 </figure>
 
 By adding the bottom left and upper right cells on each, it can be seen that Kernel SVM had only 7 incorrect predictions, while the Kernel PCA method had 10. I am completely aware this is only one project with a single data set, however I felt it was still a worthwhile comparison. Larger data sets would probably have an different results since Kernel SVM accuracy have an inverse relationship with data size.
