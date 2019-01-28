@@ -35,8 +35,8 @@ classifier.fit(X_train, y_train)
 
 ## Dimensionality Reduction
 
-I used logistric regression in tangent with both reductions
-since it was the most generic linear classifier.
+I used logistric regression in tangent along reduction
+since the point of changing the dimensionality of the data was to make it linearly separable.
 
 ```python
 # Applying Kernel PCA
